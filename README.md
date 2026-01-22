@@ -1,8 +1,8 @@
-# ml-proyecto-final
+#proyecto-final
 Alumno: Jauja Franklin - 
 Proyecto final de Machine Learning con Árbol de Decisión
 Proyecto de Machine Learning – Clasificación con Árbol de Decisión
-# Proyecto de Machine Learning – Clasificación con Árbol de Decisión
+#Proyecto de Machine Learning – Clasificación con Árbol de Decisión
 
 ##  Descripción del proyecto
 Este proyecto implementa un modelo de Machine Learning para resolver un problema de clasificación supervisada utilizando un Árbol de Decisión. El desarrollo incluye análisis exploratorio de datos (EDA), preprocesamiento, entrenamiento del modelo y evaluación del rendimiento, aplicando buenas prácticas de ciencia de datos y control de versiones con Git.
