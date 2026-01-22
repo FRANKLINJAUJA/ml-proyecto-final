@@ -1,4 +1,5 @@
 # ml-proyecto-final
+Alumno: Jauja Franklin
 Proyecto final de Machine Learning con Árbol de Decisión
 Proyecto de Machine Learning – Clasificación con Árbol de Decisión
 # Proyecto de Machine Learning – Clasificación con Árbol de Decisión
