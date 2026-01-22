@@ -4,13 +4,13 @@ Proyecto final de Machine Learning con Árbol de Decisión
 Proyecto de Machine Learning – Clasificación con Árbol de Decisión
 # Proyecto de Machine Learning – Clasificación con Árbol de Decisión
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 Este proyecto implementa un modelo de Machine Learning para resolver un problema de clasificación supervisada utilizando un Árbol de Decisión. El desarrollo incluye análisis exploratorio de datos (EDA), preprocesamiento, entrenamiento del modelo y evaluación del rendimiento, aplicando buenas prácticas de ciencia de datos y control de versiones con Git.
 
-## 🎯 Objetivo
+##  Objetivo
 Desarrollar y evaluar un modelo de Árbol de Decisión capaz de clasificar correctamente las instancias del conjunto de datos, utilizando métricas estándar de evaluación.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 - Python 3.x
 - Pandas
 - NumPy
@@ -18,14 +18,14 @@ Desarrollar y evaluar un modelo de Árbol de Decisión capaz de clasificar corre
 - Matplotlib
 - Git y GitHub
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 - `data/`: Datos utilizados en el proyecto  
 - `notebooks/`: Notebooks de análisis exploratorio, preprocesamiento y modelado  
 - `src/`: Scripts Python del proyecto  
 - `models/`: Modelos entrenados  
 - `main.py`: Script principal de ejecución  
 
-## ⚙️ Instalación de dependencias
+## Instalación de dependencias
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tu_usuario/ml-proyecto-final.git
@@ -37,26 +37,26 @@ Instalar dependencias:
 
 pip install -r requirements.txt
 
-▶️ Ejecución del proyecto
+ Ejecución del proyecto
 
 Para ejecutar el flujo completo del proyecto:
 
 python main.py
 
-📊 Resultados principales
+ Resultados principales
 
 El modelo de Árbol de Decisión obtuvo un desempeño satisfactorio en la tarea de clasificación. Las métricas de evaluación (Accuracy, Precision, Recall y F1-Score) evidencian un equilibrio adecuado entre precisión y capacidad de generalización. La matriz de confusión permite analizar el comportamiento del modelo para cada clase.
 
-✅ Conclusiones
+Conclusiones
 
 El proyecto demuestra que los Árboles de Decisión son una solución efectiva e interpretable para problemas de clasificación. La organización modular del código facilita futuras mejoras y la incorporación de modelos más avanzados.
 
 
 ---
 
-# 🧩 2️⃣ ESTRUCTURA DE CARPETAS (LO QUE DEBE VERSE EN GITHUB)
+#  2️ ESTRUCTURA DE CARPETAS (LO QUE DEBE VERSE EN GITHUB)
 
-👉 Tu repositorio debe verse así 👇 (esto NO se pega, es solo referencia):
+ Tu repositorio debe verse así  (esto NO se pega, es solo referencia):
 
 ```text
 ml-proyecto-final/
@@ -79,7 +79,7 @@ ml-proyecto-final/
 ├── requirements.txt
 └── README.md
 
-🧩 3️⃣ CONTENIDO PARA requirements.txt (OPCIONAL PERO RECOMENDADO)
+ 3️ CONTENIDO PARA requirements.txt (OPCIONAL PERO RECOMENDADO)
 
 Pega esto en requirements.txt:
 
@@ -88,7 +88,7 @@ numpy
 scikit-learn
 matplotlib
 
-🧩 4️⃣ CONTENIDO MÍNIMO PARA main.py (SI TE LO PIDEN)
+ 4️ CONTENIDO MÍNIMO PARA main.py (SI TE LO PIDEN)
 from src.preprocessing import preprocess_data
 from src.model import train_model
 from src.evaluation import evaluate_model
